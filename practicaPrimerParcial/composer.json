@@ -1,0 +1,12 @@
+{
+    "name": "root/practica",
+    "authors": [
+        {
+            "name": "Matias Gravante",
+            "email": "mgravante@navent.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^5.2"
+    }
+}
